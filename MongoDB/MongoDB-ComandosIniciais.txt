@@ -1,0 +1,35 @@
+# Criação do DataBase
+use uberdb
+
+# Criação da Coleção - ('tabela')
+db.createCollection('uber')
+show colletcions;
+
+
+# Inserção
+use uberdb
+db.uber.insertMany( [
+{"cod": 1, "name":"Vladimir", 'origem': 'Malvinas', 'destino': 'UEPB', 'tempo': 20, valor: 9.0  }, 
+{"cod": 2, "name":"Robson", 'origem': 'UFCG', 'destino': 'centro', 'tempo': 10, valor: 5.5, km: 4 }
+]
+)
+
+# Lista todos os dados da collection
+
+db.getCollection('uber').find({})
+
+db.uber.find()
+
+
+
+======================================================================================================
+
+db.clientes.insertOne({ Nome: "Vladimir", Idade: 42})
+﻿db.clientes.insertMany([ 
+	{ “Nome”: "Sarah", Idade: 19}, 
+	{ “Nome”: "Gabriel", sexo: "m"}, 
+	{ “Nome”: "Paula", Idade:25, sexo:"f"} 
+])
+
+# Lista todos os dados da collection
+db.clientes.find()
