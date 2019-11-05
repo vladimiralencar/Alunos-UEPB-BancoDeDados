@@ -20,6 +20,26 @@ db.getCollection('uber').find({})
 
 db.uber.find()
 
+# Lista somente os campos
+
+db.getCollection('uber').find({}, { "_id":0, "origem":1, "destino":1, "valor":1, "km":1  })
+
+# lista condicional
+
+db.getCollection('uber').find({"origem": "Malvinas"}, { "_id":0, "origem":1, "destino":1, "valor":1, "km":1  })
+
+# Usando operadores lógicos e relacionais
+
+db.getCollection('uber').find( { "km" : { $gte : 4 } },
+ { "_id":0, "origem":1, "destino":1, "valor":1, "km":1  })
+
+ 
+ TENTAR RODAR
+ db.getCollection('uber').find( { $and:  [ { $gte : ["km":3]  }, { $lte:  ["valor": 6] }  },
+
+ { "_id":0, "origem":1, "destino":1, "valor":1, "km":1  })
+
+
 
 
 ======================================================================================================
