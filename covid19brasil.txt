@@ -1,0 +1,25 @@
+
+Tabela covid19
+
+Local 				Total Casos_por_milhao  Mortes
+São Paulo 			866576		19679		31821
+Bahia				275088		18185		5774
+Minas Gerais		238515		11429		5935
+Rio de Janeiro		233873		14208		16770
+Ceará				219672		24842		8493
+Paraná 				209808		25986		6280
+Santa Catarina		192982		28687		2460
+Distrito Federal	172708		67197		2813
+Maranhão			160239		23390		3539
+Goiás				152640		23399		3531
+Rio Grande do Sul	147576		13075		3882
+Paraná				146333		13205		3660
+Pernambuco			133579		14398		7764
+Amazonas			124959		32258		3862
+Espírito Santo		117270		30185		3298
+Paraíba				110727		28076		2578
+Mato Grosso			100895		31292		2992
+Piauí				83502		26138		1924
+Alagoas				81092		24413		1949
+Sergipe				74121		33394		1920
+Rio Grande do Norte	64135		18816		2296
