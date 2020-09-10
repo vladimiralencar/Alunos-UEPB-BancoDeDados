@@ -23,3 +23,9 @@ Piauí				83502		26138		1924
 Alagoas				81092		24413		1949
 Sergipe				74121		33394		1920
 Rio Grande do Norte	64135		18816		2296
+Rondônia			59196		33855		1207
+Tocantins			56684		37868		762
+Mato Grosso do Sul	55345		21127		1007
+Roraima				45505		91571		605
+Amapá				45251		60254		675
+Acre				25668		32487		631
