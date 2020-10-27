@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T13:23:48.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="zk_ml-nkHR8llyeDFARX" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T13:28:15.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="H5owWpl7BO4a6ejEui9-" version="13.8.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1423" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -101,6 +101,18 @@
         </mxCell>
         <mxCell id="TAjwPoDr32oMmFauLRPC-26" value="1,1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="250" y="525" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TAjwPoDr32oMmFauLRPC-27" value="&lt;font style=&quot;font-size: 24px&quot; face=&quot;Times New Roman&quot;&gt;Vários Passageiros Compram Passagens&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="535" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TAjwPoDr32oMmFauLRPC-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font size=&quot;5&quot;&gt;Vários funcionários trabalham em somente 1 Avião&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="150" y="720" width="535" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TAjwPoDr32oMmFauLRPC-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font size=&quot;5&quot;&gt;Somente 1 Funcionário vende Passagens&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="150" y="680" width="535" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TAjwPoDr32oMmFauLRPC-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font size=&quot;5&quot;&gt;Vários passageiros embarcam no Avião&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="150" y="770" width="535" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
