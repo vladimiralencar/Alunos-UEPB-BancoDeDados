@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T11:37:24.866Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.11" etag="OcSMtdJmVoFmnYwfO5jD" type="github"><diagram id="VcVlQoD62kqL3pFUgKsZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-13T11:39:06.459Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="B9iWjCtYWAj1MGjVac4-" version="14.6.11" type="github">
+  <diagram id="VcVlQoD62kqL3pFUgKsZ" name="Page-1">
+    <mxGraphModel dx="1108" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I3CtRRURQ3ECGEPXPKQI-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Fazer um Diagrama Entidade Relacionamento para documentar casos de Covid19&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="730" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
