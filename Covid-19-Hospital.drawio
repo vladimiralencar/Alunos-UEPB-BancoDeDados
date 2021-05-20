@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T11:36:23.711Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="rgPAXabVE5wKbb1RP451" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T11:39:50.398Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="7QXANDTPLFKLtCkWMjt-" version="14.6.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Leitos-Covid19">
     <mxGraphModel dx="633" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -102,6 +102,51 @@
         </mxCell>
         <mxCell id="yuntyZBoVEaHa9BvgJv8-33" value="(1,N)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-34" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-36" value="Medico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-37" value="Enfermeiro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-38" value="Técnicos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-39" value="Limpeza" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-41" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="570" as="sourcePoint" />
+            <mxPoint x="480" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-42" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="yuntyZBoVEaHa9BvgJv8-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="559.2893218813452" as="sourcePoint" />
+            <mxPoint x="160" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-43" value="" style="endArrow=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yuntyZBoVEaHa9BvgJv8-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="620" as="sourcePoint" />
+            <mxPoint x="280" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-44" value="" style="endArrow=none;html=1;exitX=0.627;exitY=0.105;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yuntyZBoVEaHa9BvgJv8-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="610" as="sourcePoint" />
+            <mxPoint x="380" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-45" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="579" as="sourcePoint" />
+            <mxPoint x="480" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
