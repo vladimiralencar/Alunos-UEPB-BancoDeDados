@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T11:18:11.950Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="PwqHny8PAekdITDdnTm-" version="14.6.13" type="github">
-  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1108" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+<mxfile host="app.diagrams.net" modified="2021-05-20T11:19:10.626Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ZsNT57d8H8femN6uNf-v" version="14.6.13" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Leitos-Covid19">
+    <mxGraphModel dx="633" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yuntyZBoVEaHa9BvgJv8-1" value="Um Hospital possui vários Leitos, uma boa parte dele são leitos de UTI. Destes Leitos, temos os Leitos para Covid-19." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="30" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-2" value="Cada Leito de Covid-19 possui uma equipe especializada com: Médicos, Enfermeiras, Técnicos de Enfermagem e Técnicos de Laboratório, Pessoal de Limpeza, etc.&#xa;&#xa;Os pacientes que chegam são registrados os seguintes dados: Idade, Sexo, Compromentimento do Pulmão, Cidade de Origem, Peso, Altura, e se tem alguma comorbidade (hipertensão, diabetes, obesidade, asma)." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="550" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
