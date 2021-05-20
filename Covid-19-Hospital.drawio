@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T11:30:33.621Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="x2suRaCW48EhQE5x-3hu" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T11:32:46.919Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Dq-a98VN22Z8i36M7ISd" version="14.6.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Leitos-Covid19">
     <mxGraphModel dx="633" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-20" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yuntyZBoVEaHa9BvgJv8-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="300" as="sourcePoint" />
+            <mxPoint x="560" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yuntyZBoVEaHa9BvgJv8-1" value="Um &lt;span style=&quot;background-color: rgb(204 , 0 , 0)&quot;&gt;Hospital&lt;/span&gt; possui vários &lt;span style=&quot;background-color: rgb(204 , 0 , 0)&quot;&gt;Leitos&lt;/span&gt;, uma boa parte dele são &lt;span style=&quot;background-color: rgb(204 , 0 , 0)&quot;&gt;leitos de UTI&lt;/span&gt;. Destes Leitos, temos os &lt;span style=&quot;background-color: rgb(204 , 0 , 0)&quot;&gt;Leitos para Covid-19&lt;/span&gt;." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="30" width="550" height="40" as="geometry" />
         </mxCell>
@@ -49,8 +55,32 @@
         <mxCell id="yuntyZBoVEaHa9BvgJv8-17" value="Contém" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="260" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-23" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="yuntyZBoVEaHa9BvgJv8-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="410" as="sourcePoint" />
+            <mxPoint x="590" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-24" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.423;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yuntyZBoVEaHa9BvgJv8-8" target="yuntyZBoVEaHa9BvgJv8-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="420" as="sourcePoint" />
+            <mxPoint x="500" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yuntyZBoVEaHa9BvgJv8-18" value="Contém" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="380" width="60" height="50" as="geometry" />
+          <mxGeometry x="530" y="380" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-25" value="(1,N)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-26" value="(1,N)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-27" value="(1,N)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-28" value="(1,N)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="410" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
