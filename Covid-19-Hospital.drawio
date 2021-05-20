@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T11:26:35.511Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="M4pdJfNvz7IMx3VEs8RS" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T11:30:33.621Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="x2suRaCW48EhQE5x-3hu" version="14.6.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Leitos-Covid19">
     <mxGraphModel dx="633" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yuntyZBoVEaHa9BvgJv8-7" value="Leitos de UTI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yuntyZBoVEaHa9BvgJv8-8" value="Leitos de Covid-19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yuntyZBoVEaHa9BvgJv8-9" value="Equipe Especializada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
@@ -39,6 +39,18 @@
             <mxPoint x="440" y="240" as="sourcePoint" />
             <mxPoint x="490" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-15" value="(1,1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-16" value="(1,N)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-17" value="Contém" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yuntyZBoVEaHa9BvgJv8-18" value="Contém" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
