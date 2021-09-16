@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T11:40:13.328Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="7JSwNcLY2Ynw4FBR_MJz" version="14.8.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-16T11:55:45.535Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ZPVC81BiAdljAfz6O7K-" version="14.8.4" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER-Passagem">
     <mxGraphModel dx="1342" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -288,6 +288,74 @@
             <mxPoint x="560" y="669.71" as="sourcePoint" />
             <mxPoint x="620" y="670" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3oEOwaEBaQORoEQFyr-n-25" value="Funcionario" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="3oEOwaEBaQORoEQFyr-n-1">
+          <mxGeometry x="260" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3oEOwaEBaQORoEQFyr-n-26" value="Funcionario" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="3oEOwaEBaQORoEQFyr-n-1">
+          <mxGeometry x="630" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3oEOwaEBaQORoEQFyr-n-27" value="Supervisiona" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="3oEOwaEBaQORoEQFyr-n-1">
+          <mxGeometry x="450" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3oEOwaEBaQORoEQFyr-n-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="3oEOwaEBaQORoEQFyr-n-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="880" as="sourcePoint" />
+            <mxPoint x="450" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3oEOwaEBaQORoEQFyr-n-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="3oEOwaEBaQORoEQFyr-n-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="879.71" as="sourcePoint" />
+            <mxPoint x="630" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3oEOwaEBaQORoEQFyr-n-30" value="AUTO RELACIONAMENTO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3oEOwaEBaQORoEQFyr-n-1">
+          <mxGeometry x="390" y="780" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3oEOwaEBaQORoEQFyr-n-32" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3oEOwaEBaQORoEQFyr-n-1">
+          <mxGeometry x="370" y="860" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3oEOwaEBaQORoEQFyr-n-33" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3oEOwaEBaQORoEQFyr-n-1">
+          <mxGeometry x="590" y="860" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SKc2BmhcpeyG9A7RYopY" name="DER-02">
+    <mxGraphModel dx="767" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="cvbZ9szHHdb0fuQo2xFD-0" />
+        <mxCell id="cvbZ9szHHdb0fuQo2xFD-1" parent="cvbZ9szHHdb0fuQo2xFD-0" />
+        <mxCell id="cvbZ9szHHdb0fuQo2xFD-2" value="“Todo professor deve estar lotado em um departamento”&#xa;“Todo exame gera um laudo”&#xa;“Toda multa deve estar associada a um carro”&#xa;“Existe carro sem multa associada”&#xa;“Toda Nota Fiscal deve ter pelo menos um item discriminado”" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="cvbZ9szHHdb0fuQo2xFD-1">
+          <mxGeometry x="90" y="80" width="620" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_RoRwAvxPujA2v6jaBQm-0" value="Professor" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="cvbZ9szHHdb0fuQo2xFD-1">
+          <mxGeometry x="70" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_RoRwAvxPujA2v6jaBQm-1" value="Departamento" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="cvbZ9szHHdb0fuQo2xFD-1">
+          <mxGeometry x="440" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_RoRwAvxPujA2v6jaBQm-2" value="Lotado" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="cvbZ9szHHdb0fuQo2xFD-1">
+          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_RoRwAvxPujA2v6jaBQm-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cvbZ9szHHdb0fuQo2xFD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="240" as="sourcePoint" />
+            <mxPoint x="260" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_RoRwAvxPujA2v6jaBQm-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cvbZ9szHHdb0fuQo2xFD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="239.71000000000026" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_RoRwAvxPujA2v6jaBQm-5" value="(1, N)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cvbZ9szHHdb0fuQo2xFD-1">
+          <mxGeometry x="180" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_RoRwAvxPujA2v6jaBQm-6" value="(1,1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cvbZ9szHHdb0fuQo2xFD-1">
+          <mxGeometry x="400" y="220" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
