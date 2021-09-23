@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T11:22:08.954Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="cQQN1hYkmQUwI6Dnrl4C" version="15.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-23T11:23:09.437Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="geFi5crcaxOVb-oh6R_R" version="15.2.9" type="github" pages="5">
   <diagram id="X-JS9oo7KRQ4lRcFdU6s" name="DER-01">
     <mxGraphModel dx="1342" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -556,10 +556,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LKhdzq5lHThjpKrQk-_D" name="Covid-19">
-    <mxGraphModel dx="1342" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K2Qh0jLs8B2qXqH7L96B-0" />
         <mxCell id="K2Qh0jLs8B2qXqH7L96B-1" parent="K2Qh0jLs8B2qXqH7L96B-0" />
+        <mxCell id="K2Qh0jLs8B2qXqH7L96B-2" value="Projeto: Modelar UTI Covid-19 (MER)&#xa;&#xa;Um Hospital possui vários Leitos, uma boa parte dele são leitos de UTI. Destes Leitos, temos os Leitos para Covid-19.&#xa;&#xa;Cada Leito de Covid-19 possui uma equipe especializada com: Médicos, Enfermeiras, Técnicos de Enfermagem e Técnicos de Laboratório, Pessoal de Limpeza, etc.&#xa;&#xa;Os pacientes que chegam são registrados os seguintes dados: Idade, Sexo, Compromentimento do Pulmão, Cidade de Origem, Peso, Altura, e se tem alguma comorbidade (hipertensão, diabetes, obesidade, asma)." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="K2Qh0jLs8B2qXqH7L96B-1">
+          <mxGeometry x="40" y="20" width="770" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
