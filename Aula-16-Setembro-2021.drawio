@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T13:41:15.754Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="rUI3naZ7J0mTCSWEsb7I" version="15.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-23T11:22:08.954Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="cQQN1hYkmQUwI6Dnrl4C" version="15.2.9" type="github" pages="5">
   <diagram id="X-JS9oo7KRQ4lRcFdU6s" name="DER-01">
-    <mxGraphModel dx="639" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1342" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="3oEOwaEBaQORoEQFyr-n-0" />
         <mxCell id="3oEOwaEBaQORoEQFyr-n-1" parent="3oEOwaEBaQORoEQFyr-n-0" />
@@ -55,13 +55,13 @@
             <mxPoint x="620" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3oEOwaEBaQORoEQFyr-n-19" value="Cliente&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="3oEOwaEBaQORoEQFyr-n-1" vertex="1">
+        <mxCell id="3oEOwaEBaQORoEQFyr-n-19" value="Cliente&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="3oEOwaEBaQORoEQFyr-n-1" vertex="1">
           <mxGeometry x="250" y="650" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3oEOwaEBaQORoEQFyr-n-20" value="Conta" style="whiteSpace=wrap;html=1;align=center;" parent="3oEOwaEBaQORoEQFyr-n-1" vertex="1">
           <mxGeometry x="620" y="650" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3oEOwaEBaQORoEQFyr-n-21" value="Possui&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="3oEOwaEBaQORoEQFyr-n-1" vertex="1">
+        <mxCell id="3oEOwaEBaQORoEQFyr-n-21" value="Possui&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="3oEOwaEBaQORoEQFyr-n-1" vertex="1">
           <mxGeometry x="440" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3oEOwaEBaQORoEQFyr-n-22" value="" style="endArrow=none;html=1;rounded=0;" parent="3oEOwaEBaQORoEQFyr-n-1" edge="1">
@@ -552,6 +552,14 @@
         <mxCell id="tmE608Ey60_b0rDm23FV-46" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;stokeWidth=1;dashed=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="tmE608Ey60_b0rDm23FV-45" vertex="1" connectable="0">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LKhdzq5lHThjpKrQk-_D" name="Covid-19">
+    <mxGraphModel dx="1342" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="K2Qh0jLs8B2qXqH7L96B-0" />
+        <mxCell id="K2Qh0jLs8B2qXqH7L96B-1" parent="K2Qh0jLs8B2qXqH7L96B-0" />
       </root>
     </mxGraphModel>
   </diagram>
