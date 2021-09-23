@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T11:43:08.660Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ZuSa9vvOmij8WThrjuPX" version="15.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-23T11:45:00.085Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="-Yufs03K8gMhfKIK7ftm" version="15.2.9" type="github" pages="5">
   <diagram id="X-JS9oo7KRQ4lRcFdU6s" name="DER-01">
     <mxGraphModel dx="1342" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -623,11 +623,29 @@
             <mxPoint x="549.6000000000001" y="351.43999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lrc35lCEU0TL98AKLPv0-20" value="Relationship" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="K2Qh0jLs8B2qXqH7L96B-1">
+        <mxCell id="lrc35lCEU0TL98AKLPv0-20" value="Possui" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="K2Qh0jLs8B2qXqH7L96B-1">
           <mxGeometry x="400" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lrc35lCEU0TL98AKLPv0-21" value="COVID" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="K2Qh0jLs8B2qXqH7L96B-1">
-          <mxGeometry x="420" y="610" width="100" height="40" as="geometry" />
+        <mxCell id="lrc35lCEU0TL98AKLPv0-21" value="Equipe" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="K2Qh0jLs8B2qXqH7L96B-1">
+          <mxGeometry x="200" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lrc35lCEU0TL98AKLPv0-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="K2Qh0jLs8B2qXqH7L96B-1" target="lrc35lCEU0TL98AKLPv0-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="540" as="sourcePoint" />
+            <mxPoint x="460" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrc35lCEU0TL98AKLPv0-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="K2Qh0jLs8B2qXqH7L96B-1" source="lrc35lCEU0TL98AKLPv0-10" target="lrc35lCEU0TL98AKLPv0-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="560" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrc35lCEU0TL98AKLPv0-24" value="(1,N)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K2Qh0jLs8B2qXqH7L96B-1">
+          <mxGeometry x="462.5" y="480" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrc35lCEU0TL98AKLPv0-25" value="(1,N)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="K2Qh0jLs8B2qXqH7L96B-1">
+          <mxGeometry x="300" y="510" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
