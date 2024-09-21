@@ -10,7 +10,7 @@ show colletcions;
 use uberdb
 db.uber.insertMany( [
 {"cod": 1, "name":"Vladimir", 'origem': 'Malvinas', 'destino': 'UEPB', 'tempo': 20, valor: 9.0  }, 
-{"cod": 2, "name":"Robson", 'origem': 'UFCG', 'destino': 'centro', 'tempo': 10, valor: 5.5, km: 4 }
+{"cod": 2, "name":"Pedro", 'origem': 'UFCG', 'destino': 'centro', 'tempo': 10, valor: 5.5, km: 4 }
 ]
 )
 
